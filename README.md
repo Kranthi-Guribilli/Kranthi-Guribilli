@@ -1,5 +1,5 @@
-Hey 👋, I'm Kranthi !
-About me:
+## Hey ![](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/5cce3990b494ce2fd14145ef804d9ceeab5a1ea3/Assets/Hi.gif), I'm Kranthi !
+## About me 🚀
 🎓I'm a Fachcha pursuing my bachelors in Computer Science & Engineering💻 from RGUKT Srikakulam.
 I'm an enthusiastic learner with creative insights✨✨.I used to get out of my comfort zone to explore new things in technology.
 I'm very passionate about software development and enjoy learning new things.
