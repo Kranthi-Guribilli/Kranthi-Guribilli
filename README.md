@@ -5,6 +5,8 @@
 👩‍🏫💻 *I'm an enthusiastic learner with creative insights✨✨.I used to get out of my comfort zone to explore new things in technology.*<br/>
 👩‍💻 *I'm very passionate about Data Science and enjoy learning new things.*<br/>
    *I am an open source enthusiast and looking forward to contribute to the community.*<br/>
-*Currently I'm working on my Data Structures and Algorithm skills*😀
+   *Currently I'm working on my Data Structures and Algorithm skills*😀
 
   ![](https://github-readme-stats.vercel.app/api?username=Kranthi-Guribilli&theme=gotham&show_icons=true)
+  
+  ![](https://komarev.com/ghpvc/?username=Kranthi-Guribilli&color=brightgreen&style=flat-square&label=VISITORS)
