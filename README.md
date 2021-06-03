@@ -6,3 +6,4 @@
 👩‍💻 *I'm very passionate about Data Science and enjoy learning new things.*<br/>
    *I am an open source enthusiast and looking forward to contribute to the community.*<br/>
 *Currently I'm working on my Data Structures and Algorithm skills*😀
+![](https://github-readme-stats.vercel.app/api?username=Kranthi-Guribilli&theme=gotham&show_icons=true)
