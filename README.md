@@ -18,8 +18,8 @@
    *Currently I'm working on my Data Structures and Algorithm skills*😀
 
   ![](https://github-readme-stats.vercel.app/api?username=Kranthi-Guribilli&theme=gotham&show_icons=true)
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthi-guribilli&show_icons=true&locale=en&layout=compact&theme=gotham" alt="kranthi-guribilli" /></p>
-
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kranthi-guribilli&theme=gotham)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kranthi-guribilli&layout=compact&locale=en&theme=gotham" alt="kranthi-guribilli" /></p>
 
   
