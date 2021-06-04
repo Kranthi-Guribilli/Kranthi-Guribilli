@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/5cce3990b494ce2fd14145ef804d9ceeab5a1ea3/Assets/Hi.gif" width="40" height="40">, I'm Kranthi !
-## CONNECT WITH ME: 
+## YOU CAN FIND ME HERE: <p align = "left"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" /></p>
 <p align="left">
-<a href="https://www.codechef.com/users/kranthi004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kranthi004" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/kranthi004" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kranthi004" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/kranthi-guribilli-1a8b24206"><img src="https://drive.google.com/uc?export=view&id=105X_XE6VDLH5I0Ub7N7J5ewhzHsAbP52" width="30" height="30"> </a>
 <a href="mailto:kranthiguribilli@gmail.com"><img src="https://drive.google.com/uc?export=view&id=10LLQP36INaHgDbBFRfxEhxzdsxZGBQAj" width="30" height="30"></a>
   </p>
