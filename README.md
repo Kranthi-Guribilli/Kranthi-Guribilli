@@ -13,10 +13,9 @@
 
 
 ## About me 🚀
-*🎓 I'm a Fachcha pursuing my bachelors in Computer Science & Engineering from RGUKT Srikakulam, Andhra Pradesh.*<br/>
-👩‍🏫💻 *I'm an enthusiastic learner with creative insights✨✨.I used to get out of my comfort zone to explore new things in technology.*<br/>
-👩‍💻 *I'm very passionate about Data Science and enjoy learning new things.*<br/>
-   *I am an open source enthusiast and looking forward to contribute to the community.*<br/>
+🎓 I'm an open source enthusiast and a fachcha pursuing my bachelors in Computer Science & Engineering.<br/>
+👩‍🏫💻 I'm an enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
+👩‍💻 I'm very passionate about Data Science and I enjoy learning new things.<br/>
 
   ![](https://github-readme-stats.vercel.app/api?username=Kranthi-Guribilli&theme=gotham&show_icons=true)
   
