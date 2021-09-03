@@ -13,7 +13,7 @@
 
 ## About me 🚀
 🎓 I'm an open source enthusiast and a fachcha pursuing my bachelors in Computer Science & Engineering.<br/>
-👩‍🏫💻 I'm an enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
+💻 I'm an enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
 👩‍💻 I'm very passionate about Data Science and I enjoy learning new things.<br/>
 
   ![](https://github-readme-stats.vercel.app/api?username=Kranthi-Guribilli&theme=gotham&show_icons=true)
