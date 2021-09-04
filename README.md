@@ -16,11 +16,11 @@
 🎓 I'm an open source enthusiast and a fachcha pursuing my bachelors in Computer Science & Engineering.<br/>
 💻 I'm an enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
 👩‍💻 I'm very passionate about Data Science and I enjoy learning new things.<br/>
-## My Github Status
+## My GitHub Status
+
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthi-guribilli&show_icons=true&locale=en"</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthi-guribilli&show_icons=true&locale=en&layout=compact" alt="kranthi-guribilli" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthi-guribilli&show_icons=true&locale=en&layout=compact" alt="kranthi-guribilli" /></p>
 
-<p><img src="https://komarev.com/ghpvc/?username=Kranthi-Guribilli&label=Profile%20views&color=0e75b6&style=flat" alt="Kranthi-Guribilli" /></p>
 
-  
+  <p><img src="https://komarev.com/ghpvc/?username=Kranthi-Guribilli&label=Profile%20views&color=0e75b6&style=flat" alt="Kranthi-Guribilli" /></p>
