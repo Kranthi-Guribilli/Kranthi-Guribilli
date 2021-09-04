@@ -8,6 +8,7 @@
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
@@ -15,12 +16,11 @@
 🎓 I'm an open source enthusiast and a fachcha pursuing my bachelors in Computer Science & Engineering.<br/>
 💻 I'm an enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
 👩‍💻 I'm very passionate about Data Science and I enjoy learning new things.<br/>
+## My Github Status
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthi-guribilli&show_icons=true&locale=en"</p>
 
-  ![](https://github-readme-stats.vercel.app/api?username=Kranthi-Guribilli&theme=gotham&show_icons=true)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kranthi-guribilli&theme=gotham)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kranthi-guribilli&layout=compact&locale=en&theme=gotham" alt="kranthi-guribilli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthi-guribilli&show_icons=true&locale=en&layout=compact" alt="kranthi-guribilli" /></p>
 
-  
-  ![](https://komarev.com/ghpvc/?username=Kranthi-Guribilli&color=brightgreen&style=flat-square&label=VISITORS)
+<p><img src="https://komarev.com/ghpvc/?username=Kranthi-Guribilli&label=Profile%20views&color=0e75b6&style=flat" alt="Kranthi-Guribilli" /></p>
+
   
