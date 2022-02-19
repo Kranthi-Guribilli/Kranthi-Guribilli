@@ -24,4 +24,4 @@
 <p><img src="https://komarev.com/ghpvc/?username=Kranthi-Guribilli&label=VISITORS&color=0e75b6&style=flat" alt="Kranthi-Guribilli" /></p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/output/github-contribution-grid-snake.gif)  
+![snake gif](https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/output/github-contribution-grid-snake.svg)  
