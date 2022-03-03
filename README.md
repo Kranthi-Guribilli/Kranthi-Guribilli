@@ -13,11 +13,11 @@
 </p>
 
 
-## About me 🚀
+## About me: 🚀
 🎓 I'm an open source enthusiast and a sophomore pursuing my Bachelors in Computer Science & Engineering.<br/>
 💻 I'm an enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
 👩‍💻 I'm very passionate about Data Science and I enjoy learning new things.<br/>
-## My GitHub Status
+## My GitHub Status:
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthi-guribilli&show_icons=true&locale=en"</p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthi-guribilli&show_icons=true&locale=en&layout=compact" alt="kranthi-guribilli" /></p>
