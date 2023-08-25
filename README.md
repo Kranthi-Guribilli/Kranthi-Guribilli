@@ -24,8 +24,8 @@
 
 
 ## About me: 🚀
-🎓 I'm a junior pursuing my Bachelors in Computer Science & Engineering.<br/>
-💻 I'm an enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
+🎓 Pursuing final year of BTech in Computer Science & Engineering.<br/>
+💻 An enthusiastic learner with creative insights✨✨ and I used to get out of my comfort zone to explore new things in technology.<br/>
 
 ## My GitHub Status:
 
