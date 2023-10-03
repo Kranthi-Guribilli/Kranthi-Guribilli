@@ -1,5 +1,5 @@
 <h3 align="center">
-	Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/5cce3990b494ce2fd14145ef804d9ceeab5a1ea3/Assets/Hi.gif" width="40" height="40">, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
+	Hey, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
 </h3> <a href="https://github.com/Kranthi-Guribilli/"> </a>
 <br/>
 
