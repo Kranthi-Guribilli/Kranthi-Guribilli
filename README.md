@@ -1,5 +1,5 @@
 <h3 align="center">
-	Hey, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
+	Hey there, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
 </h3> <a href="https://github.com/Kranthi-Guribilli/"> </a>
 <br/>
 
@@ -13,12 +13,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kranthi-guribilli-1a8b24206"><img src="https://drive.google.com/uc?export=view&id=105X_XE6VDLH5I0Ub7N7J5ewhzHsAbP52" width="30" height="30"> </a>
 <a href="mailto:kranthiguribilli@gmail.com"><img src="https://drive.google.com/uc?export=view&id=10LLQP36INaHgDbBFRfxEhxzdsxZGBQAj" width="30" height="30"></a>
- <a href="https://twitter.com/Kranthi517"><img src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" width="30" height="30"></a>
   </p>
   <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
