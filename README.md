@@ -17,7 +17,7 @@
 
 
 ## About me: 🚀
-🎓 Pursuing final year of BTech in Computer Science & Engineering.<br/>
+🎓 CSE - IIIT RGUKT Srikakulam'24.<br/>
 💻 An enthusiastic learner with creative insights✨✨<br/>
 
 ## My GitHub Status:
