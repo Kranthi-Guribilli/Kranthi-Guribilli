@@ -17,7 +17,6 @@
 
 
 ## About me: 🚀
-🎓 CSE - IIIT RGUKT Srikakulam'24.<br/>
 💻 An enthusiastic learner with creative insights✨✨<br/>
 
 ## My GitHub Status:
