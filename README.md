@@ -1,4 +1,4 @@
-![Kranthi-Guribilli_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
+![Kranthi-Guribilli_header](https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/main/Profile_header.jpg)
 <h3 align="center">
 	Hey there, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
 </h3> <a href="https://github.com/Kranthi-Guribilli/"> </a>
