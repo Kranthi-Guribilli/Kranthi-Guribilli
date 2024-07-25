@@ -21,8 +21,9 @@
 
 ## My GitHub Status:
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthi-guribilli&show_icons=true&locale=en"</p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthi-guribilli&show_icons=true&locale=en&layout=compact" alt="kranthi-guribilli" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthi-guribilli&show_icons=true&locale=en&theme=dark#gh-dark-mode-only"</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthi-guribilli&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="kranthi-guribilli" /></p>
+
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/output/github-contribution-grid-snake.svg)  
