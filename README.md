@@ -2,7 +2,6 @@
 <h3 align="center">
 	Hey there, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
 </h3> <a href="https://github.com/Kranthi-Guribilli/"> </a>
-<br/>
 
 ### Find me around the web<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" />
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kranthiguribilli@gmail.com)
