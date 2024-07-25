@@ -1,7 +1,6 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/main/Profile_header.jpg" width="923" height="306">
 <h3 align="center">
-	Hey there, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
-</h3> <a href="https://github.com/Kranthi-Guribilli/"> </a>
+	Hey there, I'm Kranthi! <img height ="20" src="https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/main/Hi.gif" />
 
 ### Find me around the web<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" />
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kranthiguribilli@gmail.com)
