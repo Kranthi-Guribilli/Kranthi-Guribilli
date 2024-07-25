@@ -1,4 +1,4 @@
-![Kranthi-Guribilli_header](https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/main/Profile_header.jpg)
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/main/Profile_header.jpg" width="923" height="306">
 <h3 align="center">
 	Hey there, I'm <a href="https://Kranthi-Guribilli.github.io/">Kranthi !</a>
 </h3> <a href="https://github.com/Kranthi-Guribilli/"> </a>
