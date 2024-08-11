@@ -2,7 +2,7 @@
 <h3 align="center">
 	Hey there, I'm Kranthi! <img height ="20" src="https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/main/Hi.gif" />
 
-### Find me around the web<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" />
+### Find me around the web<img align="center" src="https://github.com/Kranthi-Guribilli/Kranthi-Guribilli/blob/main/Handshake.gif" height="30px" />
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kranthiguribilli@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kranthi-guribilli-1a8b24206)
 
