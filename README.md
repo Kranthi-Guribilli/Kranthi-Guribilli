@@ -34,7 +34,7 @@
 <br />
 
 <a href="https://twitter.com/Kranthi517">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Kranthi Guribilli | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 ### Watch my contribution graph get eaten by the snake 🐍
