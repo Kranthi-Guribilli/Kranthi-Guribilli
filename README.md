@@ -9,7 +9,7 @@
 
 **About me:** 🚀
 - 💻 An enthusiastic learner with creative insights✨✨<br/>
-- 💼 Associate Software Engineer at [IUDX](https://iudx.org.in/)
+- 💼 Associate Software Engineer at [CDPG](https://dataforpublicgood.org.in/)
   
 <code><img height="20" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 <code><img height="20" alt="C" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></code>
