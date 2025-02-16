@@ -7,9 +7,11 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kranthi-guribilli-1a8b24206)
 
 
-**About me:** 🚀
+**About me:** 
 - 💻 An enthusiastic learner with creative insights✨✨<br/>
 - 💼 Associate Software Engineer at [CDPG](https://dataforpublicgood.org.in/)
+
+**🚀 My Tech Arsenal:**
   
 <code><img height="20" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 <code><img height="20" alt="C" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></code>
