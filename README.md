@@ -9,7 +9,7 @@
 
 **About me:** 
 - 💻 An enthusiastic learner with creative insights✨✨<br/>
-- 💼 Associate Software Engineer at [CDPG](https://dataforpublicgood.org.in/)
+- 💼 Software Engineer at [CDPG](https://dataforpublicgood.org.in/)
 
 **🚀 My Tech Arsenal:**
   
