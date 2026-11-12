@@ -29,7 +29,7 @@
 <code><img height="20" alt="RabbitMQ" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthi-guribilli&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kranthi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthi-guribilli&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api?username=kranthi-guribilli&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kranthi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kranthi-guribilli&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
